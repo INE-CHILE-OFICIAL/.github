@@ -58,3 +58,4 @@ No hay restricciones adicionales: No puede aplicar términos legales o medidas t
 
 <sup>[<strong>4</strong>]</sup> <small>También puede indicar una licencia compatible de la lista: <a href="https://creativecommons.org/compatiblelicenses" target="_blank">https://creativecommons.org/compatiblelicenses</a><br>
 </small>
+
